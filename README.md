@@ -6,3 +6,7 @@
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module0/module0/
+
+The image splitted dataset is the following:
+
+<img src="images\DL_classifier.png" width="50%">
